@@ -1,0 +1,12 @@
+Essential package
+
+Python = 3.10.11
+
+Pandas = 1.5.3
+
+numpy = 1.25.0
+
+tqdm = 4.65.0
+
+
+
